@@ -1,0 +1,69 @@
+.btn-tranparent {
+    background-color: transparent !important;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.menu_fixed {
+    background-color: rgb(110, 192, 95)
+}
+
+.footer_part .copyright_text p a {
+    color: rgb(110, 192, 95);
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.footer_part .footer_icon li a :hover {
+    color: rgb(110, 192, 95);
+}
+
+.footer_part .single_footer_part .mail_part .email_icon {
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    width: 60px;
+    height: 39px;
+    background-color: rgb(110, 192, 95);
+    text-align: center;
+    color: #fff;
+    border-radius: 50px;
+    line-height: 10px;
+    border: 2px solid rgb(110, 192, 95)
+}
+
+.feature_part .feature_part_text h2 {
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-bottom: 21px;
+    position: relative;
+}
+
+.genric-btn.primary-border {
+    color: rgb(110, 192, 95);
+    border: 1px solid rgb(110, 192, 95);
+    background: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 195px;
+}
+
+.genric-btn.primary-border:hover {
+    color: #fff;
+    background: linear-gradient(to left, #e38501 0%, #f0aa48 51%, #e38501 100%);
+    border: 1px solid transparent;
+}
+
+.icon-download {
+    font-size: 22px;
+    padding-right: 10px;
+}
+
+.btn_1, .btn_2:hover, .form-contact .form-group .btn_1 i {
+    background-image: linear-gradient(to left, #e38501 0%, #f0aa48 51%, #e38501 100%);
+}
+
+.counter_form_button {
+    background: linear-gradient(to left, #e38501 0%, #f0aa48 51%, #e38501 100%) !important;
+}
